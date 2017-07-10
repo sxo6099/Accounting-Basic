@@ -4,7 +4,7 @@
 public class Database {
     int num;
 
-    //This is a metafor
+    //This is a metaphor
     public Database(int num){
         this.num = num;
     }
